@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="56" viewBox="0 0 60 56">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="60" height="52" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="menu" transform="translate(-514 -66)">
+    <g id="Wiederholungsraster_1" data-name="Wiederholungsraster 1" transform="translate(514 69)" clip-path="url(#clip-path)">
+      <g transform="translate(-514 -69)">
+        <rect id="Rechteck_1" data-name="Rechteck 1" width="60" height="8" rx="4" transform="translate(514 70)" fill="#fff"/>
+      </g>
+      <g transform="translate(-514 -49)">
+        <rect id="Rechteck_1-2" data-name="Rechteck 1" width="60" height="8" rx="4" transform="translate(514 70)" fill="#fff"/>
+      </g>
+      <g transform="translate(-514 -29)">
+        <rect id="Rechteck_1-3" data-name="Rechteck 1" width="60" height="8" rx="4" transform="translate(514 70)" fill="#fff"/>
+      </g>
+    </g>
+    <rect id="Rechteck_4" data-name="Rechteck 4" width="16" height="16" rx="8" transform="translate(536 106)" fill="#eee"/>
+    <rect id="Rechteck_5" data-name="Rechteck 5" width="16" height="16" rx="8" transform="translate(553 86)" fill="#eee"/>
+    <rect id="Rechteck_6" data-name="Rechteck 6" width="16" height="16" rx="8" transform="translate(523 66)" fill="#eee"/>
+  </g>
+</svg>

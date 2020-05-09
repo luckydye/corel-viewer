@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="../lib/zip.js"></script>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+    <header>
+        <div class="header">
+            <div class="menu">
+                <button class="menu-button" onclick="document.body.toggleAttribute('menu-open')">
+                    <img width="18px" src="./images/menu.svg">
+                </button>
+                <div class="menu-overlay">
+                    <!-- <div class="menu-title">Menü</div> -->
+                    <div class="menu-item" data-click='openSettings'>Settings</div>
+                </div>
+            </div>
+            <div class="loading-indicator" loading></div>
+        </div>
+        <div class="search">
+            <input placeholder="Suche" style="width: 300px;"/>
+        </div>
+    </header>
+
+    <main>
+
+        <div class="result-list">
+
+        </div>
+
+    </main>
+
+    <script type="module" src="app.js"></script>
+</body>
+</html>
