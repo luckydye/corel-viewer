@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "@uncut/binary-file-lib": "file:../binary-file-lib",
-    "electron": "^8.0.1"
+    "electron": "^8.2.4"
   }
 }
